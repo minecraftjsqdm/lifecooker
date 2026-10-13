@@ -1,0 +1,14 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:tomatoes", "count": 2 },
+    { "tag": "lifecooker:sweeteners", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:cold_tomato", "count": 1 },
+  "tier": "simple",
+  "time": 8,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:night_vision", "value": 2, "duration": 90 }
+  ]
+}

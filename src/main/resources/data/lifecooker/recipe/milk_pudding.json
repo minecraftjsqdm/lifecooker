@@ -1,0 +1,16 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:milks", "count": 2 },
+    { "tag": "lifecooker:sweeteners", "count": 1 },
+    { "tag": "lifecooker:ice", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:milk_pudding", "count": 1 },
+  "tier": "refined",
+  "time": 24,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:regeneration", "value": 2, "duration": 75 },
+    { "type": "lifecooker:health", "value": 2, "duration": 60 }
+  ]
+}

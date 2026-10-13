@@ -1,0 +1,13 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 4 }
+  ],
+  "result": { "id": "lifecooker:grilled_meat", "count": 1 },
+  "tier": "simple",
+  "time": 12,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:attack", "value": 3, "duration": 90 }
+  ]
+}

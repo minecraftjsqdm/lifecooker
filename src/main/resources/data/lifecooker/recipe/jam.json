@@ -1,0 +1,10 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:fruits", "count": 4 }
+  ],
+  "result": { "id": "lifecooker:jam", "count": 1 },
+  "tier": "simple",
+  "time": 10,
+  "category": "snack"
+}

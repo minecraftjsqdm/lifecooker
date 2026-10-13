@@ -1,0 +1,16 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 1 },
+    { "tag": "lifecooker:vegetables", "count": 1 },
+    { "tag": "lifecooker:milks", "count": 2 }
+  ],
+  "result": { "id": "lifecooker:cream_soup", "count": 1 },
+  "tier": "complex",
+  "time": 24,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:regeneration", "value": 2, "duration": 90 },
+    { "type": "lifecooker:saturation", "value": 2, "duration": 75 }
+  ]
+}

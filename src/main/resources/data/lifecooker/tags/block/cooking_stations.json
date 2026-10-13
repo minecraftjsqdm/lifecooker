@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lifecooker:grill",
+    "lifecooker:stove",
+    "lifecooker:induction_cooker",
+    "minecraft:campfire"
+  ]
+}

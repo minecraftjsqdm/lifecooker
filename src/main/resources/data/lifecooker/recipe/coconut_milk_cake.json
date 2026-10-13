@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:coconuts", "count": 2 },
+    { "tag": "lifecooker:flours", "count": 1 },
+    { "tag": "lifecooker:milks", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:coconut_milk_cake", "count": 1 },
+  "tier": "refined",
+  "time": 28,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:luck", "value": 3, "duration": 180 }
+  ]
+}

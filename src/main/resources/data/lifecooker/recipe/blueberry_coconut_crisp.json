@@ -1,0 +1,16 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:berries", "count": 2 },
+    { "tag": "lifecooker:flours", "count": 1 },
+    { "tag": "lifecooker:coconuts", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:blueberry_coconut_crisp", "count": 1 },
+  "tier": "complex",
+  "time": 24,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:luck", "value": 2, "duration": 120 },
+    { "type": "lifecooker:health", "value": 1, "duration": 60 }
+  ]
+}

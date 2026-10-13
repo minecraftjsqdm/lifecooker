@@ -1,0 +1,13 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:ice", "count": 4 }
+  ],
+  "result": { "id": "lifecooker:hot_water", "count": 1 },
+  "tier": "simple",
+  "time": 8,
+  "category": "drink",
+  "traits": [
+    { "type": "lifecooker:cold_resistance", "value": 1, "duration": 60 }
+  ]
+}

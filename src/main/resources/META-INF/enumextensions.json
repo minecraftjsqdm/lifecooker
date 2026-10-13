@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/world/inventory/RecipeBookType",
+      "name": "LIFECOOKER_COOKING",
+      "constructor": "()V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/registry/ModRecipeBookTypes",
+        "field": "COOKING"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/RecipeBookCategories",
+      "name": "LIFECOOKER_SEARCH",
+      "constructor": "(Ljava/util/function/Supplier;)V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/client/ModRecipeBookCategories",
+        "field": "SEARCH"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/RecipeBookCategories",
+      "name": "LIFECOOKER_MEALS",
+      "constructor": "(Ljava/util/function/Supplier;)V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/client/ModRecipeBookCategories",
+        "field": "MEALS"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/RecipeBookCategories",
+      "name": "LIFECOOKER_SNACKS",
+      "constructor": "(Ljava/util/function/Supplier;)V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/client/ModRecipeBookCategories",
+        "field": "SNACKS"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/RecipeBookCategories",
+      "name": "LIFECOOKER_DRINKS",
+      "constructor": "(Ljava/util/function/Supplier;)V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/client/ModRecipeBookCategories",
+        "field": "DRINKS"
+      }
+    },
+    {
+      "enum": "net/minecraft/client/RecipeBookCategories",
+      "name": "LIFECOOKER_MISC",
+      "constructor": "(Ljava/util/function/Supplier;)V",
+      "parameters": {
+        "class": "com/homemine/lifecooker/client/ModRecipeBookCategories",
+        "field": "MISC"
+      }
+    }
+  ]
+}

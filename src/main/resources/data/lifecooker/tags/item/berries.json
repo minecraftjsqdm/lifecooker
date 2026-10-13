@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lifecooker:blueberry",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    { "id": "c:foods/berry", "required": false }
+  ]
+}

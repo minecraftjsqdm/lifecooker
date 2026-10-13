@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 2 },
+    { "tag": "lifecooker:tomatoes", "count": 2 }
+  ],
+  "result": { "id": "lifecooker:tomato_stewed_meat", "count": 1 },
+  "tier": "complex",
+  "time": 24,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:attack", "value": 3, "duration": 90 },
+    { "type": "lifecooker:resistance", "value": 1, "duration": 60 }
+  ]
+}

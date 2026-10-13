@@ -1,0 +1,17 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:eggs", "count": 1 },
+    { "tag": "lifecooker:flours", "count": 1 },
+    { "tag": "lifecooker:milks", "count": 1 },
+    { "tag": "lifecooker:sweeteners", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:egg_tart", "count": 1 },
+  "tier": "complex",
+  "time": 22,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:health", "value": 2, "duration": 90 },
+    { "type": "lifecooker:saturation", "value": 1, "duration": 60 }
+  ]
+}

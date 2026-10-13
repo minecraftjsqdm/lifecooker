@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat",
+    { "id": "c:foods/dough", "required": false },
+    { "id": "c:foods/dough/wheat", "required": false },
+    { "id": "c:foods/pasta", "required": false },
+    { "id": "c:foods/rice_pasta", "required": false },
+    { "id": "farmersdelight:wheat_dough", "required": false }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:fish", "count": 1 },
+    { "tag": "lifecooker:chilis", "count": 2 },
+    { "tag": "lifecooker:oils", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:spicy_boiled_fish", "count": 1 },
+  "tier": "refined",
+  "time": 28,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:attack", "value": 3, "duration": 150 }
+  ]
+}

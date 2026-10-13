@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lifecooker:chili",
+    { "id": "expandeddelight:chili_pepper", "required": false },
+    { "id": "c:crops/chili_pepper", "required": false }
+  ]
+}

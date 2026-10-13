@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:flours", "count": 2 },
+    { "tag": "lifecooker:milks", "count": 2 }
+  ],
+  "result": { "id": "lifecooker:milky_croissant", "count": 1 },
+  "tier": "complex",
+  "time": 20,
+  "category": "snack",
+  "traits": [
+    { "type": "lifecooker:saturation", "value": 2, "duration": 90 },
+    { "type": "lifecooker:health", "value": 1, "duration": 60 }
+  ]
+}

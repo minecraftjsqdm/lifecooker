@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lifecooker:cooking_oil",
+    { "id": "cookscollection:cooking_oil", "required": false },
+    { "id": "c:cooking_oil", "required": false }
+  ]
+}

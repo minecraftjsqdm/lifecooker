@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lifecooker:rice",
+    { "id": "farmersdelight:rice", "required": false },
+    { "id": "c:crops/rice", "required": false },
+    { "id": "c:crops/grain", "required": false }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 3 },
+    { "tag": "lifecooker:sweeteners", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:honeyed_meat", "count": 1 },
+  "tier": "complex",
+  "time": 22,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:attack", "value": 3, "duration": 90 },
+    { "type": "lifecooker:regeneration", "value": 1, "duration": 60 }
+  ]
+}

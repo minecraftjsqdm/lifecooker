@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.homemine.lifecooker.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["CampfireComparatorMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

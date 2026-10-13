@@ -1,0 +1,158 @@
+{
+  "replace": false,
+  "values": {
+    "minecraft:beef": [
+      { "type": "lifecooker:attack", "value": 2, "duration": 60 }
+    ],
+    "minecraft:porkchop": [
+      { "type": "lifecooker:attack", "value": 2, "duration": 60 }
+    ],
+    "minecraft:mutton": [
+      { "type": "lifecooker:attack", "value": 1, "duration": 45 }
+    ],
+    "minecraft:rabbit": [
+      { "type": "lifecooker:attack", "value": 1, "duration": 45 }
+    ],
+    "minecraft:cooked_beef": [
+      { "type": "lifecooker:attack", "value": 3, "duration": 90 }
+    ],
+    "minecraft:cooked_porkchop": [
+      { "type": "lifecooker:attack", "value": 3, "duration": 90 }
+    ],
+    "minecraft:cooked_mutton": [
+      { "type": "lifecooker:attack", "value": 2, "duration": 75 }
+    ],
+    "minecraft:cooked_rabbit": [
+      { "type": "lifecooker:attack", "value": 2, "duration": 75 }
+    ],
+
+    "minecraft:brown_mushroom": [
+      { "type": "lifecooker:resistance", "value": 1, "duration": 45 }
+    ],
+    "minecraft:red_mushroom": [
+      { "type": "lifecooker:resistance", "value": 1, "duration": 45 }
+    ],
+    "minecraft:kelp": [
+      { "type": "lifecooker:resistance", "value": 1, "duration": 30 }
+    ],
+
+    "minecraft:chicken": [
+      { "type": "lifecooker:health", "value": 1, "duration": 60 }
+    ],
+    "minecraft:cooked_chicken": [
+      { "type": "lifecooker:health", "value": 2, "duration": 90 }
+    ],
+    "minecraft:apple": [
+      { "type": "lifecooker:health", "value": 1, "duration": 45 }
+    ],
+    "minecraft:egg": [
+      { "type": "lifecooker:health", "value": 1, "duration": 30 }
+    ],
+
+    "minecraft:cod": [
+      { "type": "lifecooker:regeneration", "value": 1, "duration": 45 }
+    ],
+    "minecraft:salmon": [
+      { "type": "lifecooker:regeneration", "value": 1, "duration": 45 }
+    ],
+    "minecraft:cooked_cod": [
+      { "type": "lifecooker:regeneration", "value": 2, "duration": 60 }
+    ],
+    "minecraft:cooked_salmon": [
+      { "type": "lifecooker:regeneration", "value": 2, "duration": 60 }
+    ],
+    "minecraft:honey_bottle": [
+      { "type": "lifecooker:regeneration", "value": 2, "duration": 80 }
+    ],
+    "minecraft:golden_apple": [
+      { "type": "lifecooker:regeneration", "value": 3, "duration": 120 }
+    ],
+    "minecraft:enchanted_golden_apple": [
+      { "type": "lifecooker:regeneration", "value": 4, "duration": 180 }
+    ],
+
+    "minecraft:sugar": [
+      { "type": "lifecooker:speed", "value": 1, "duration": 30 }
+    ],
+    "minecraft:sweet_berries": [
+      { "type": "lifecooker:speed", "value": 1, "duration": 40 }
+    ],
+
+    "minecraft:wheat": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 30 }
+    ],
+    "minecraft:wheat_seeds": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 20 }
+    ],
+    "minecraft:bread": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 40 }
+    ],
+    "minecraft:potato": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 30 }
+    ],
+    "minecraft:baked_potato": [
+      { "type": "lifecooker:saturation", "value": 2, "duration": 50 }
+    ],
+
+    "minecraft:carrot": [
+      { "type": "lifecooker:night_vision", "value": 1, "duration": 60 }
+    ],
+    "minecraft:glow_berries": [
+      { "type": "lifecooker:night_vision", "value": 1, "duration": 50 }
+    ],
+    "minecraft:golden_carrot": [
+      { "type": "lifecooker:night_vision", "value": 2, "duration": 90 }
+    ],
+
+    "minecraft:beetroot": [
+      { "type": "lifecooker:haste", "value": 1, "duration": 40 }
+    ],
+    "minecraft:melon_slice": [
+      { "type": "lifecooker:haste", "value": 1, "duration": 30 }
+    ],
+
+    "minecraft:cocoa_beans": [
+      { "type": "lifecooker:luck", "value": 1, "duration": 60 }
+    ],
+    "minecraft:pumpkin_pie": [
+      { "type": "lifecooker:luck", "value": 1, "duration": 80 }
+    ],
+
+    "minecraft:experience_bottle": [
+      { "type": "lifecooker:experience", "value": 2, "duration": 60 }
+    ],
+
+    "minecraft:ice": [
+      { "type": "lifecooker:cold_resistance", "value": 1, "duration": 60 }
+    ],
+    "minecraft:snowball": [
+      { "type": "lifecooker:cold_resistance", "value": 1, "duration": 40 }
+    ],
+
+    "minecraft:blaze_powder": [
+      { "type": "lifecooker:heat_resistance", "value": 1, "duration": 60 }
+    ],
+    "minecraft:magma_cream": [
+      { "type": "lifecooker:heat_resistance", "value": 1, "duration": 80 }
+    ],
+
+    "lifecooker:rice": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 35 }
+    ],
+    "lifecooker:coconut": [
+      { "type": "lifecooker:saturation", "value": 1, "duration": 40 }
+    ],
+    "lifecooker:blueberry": [
+      { "type": "lifecooker:speed", "value": 1, "duration": 40 }
+    ],
+    "lifecooker:chili": [
+      { "type": "lifecooker:heat_resistance", "value": 1, "duration": 50 }
+    ],
+    "lifecooker:tomato": [
+      { "type": "lifecooker:night_vision", "value": 1, "duration": 50 }
+    ],
+    "lifecooker:shrimp": [
+      { "type": "lifecooker:health", "value": 1, "duration": 45 }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 2 },
+    { "tag": "lifecooker:chilis", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:spicy_diced_meat", "count": 1 },
+  "tier": "complex",
+  "time": 20,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:attack", "value": 3, "duration": 90 }
+  ]
+}

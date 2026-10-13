@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lifecooker:block/induction_cooker"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot",
+    "minecraft:pumpkin",
+    { "id": "c:foods/vegetable", "required": false },
+    { "id": "c:foods/vegetables", "required": false },
+    { "id": "c:crops/onion", "required": false },
+    { "id": "c:crops/cabbage", "required": false },
+    { "id": "c:crops/eggplant", "required": false },
+    { "id": "c:crops/cucumber", "required": false },
+    { "id": "c:crops/asparagus", "required": false },
+    { "id": "c:crops/sweet_potato", "required": false },
+    { "id": "c:crops/corn", "required": false },
+    { "id": "c:crops/chili_pepper", "required": false },
+    { "id": "c:foods/sweet_potato", "required": false },
+    { "id": "c:foods/asparagus", "required": false }
+  ]
+}

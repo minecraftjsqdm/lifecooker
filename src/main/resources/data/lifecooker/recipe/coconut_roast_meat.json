@@ -1,0 +1,15 @@
+{
+  "type": "lifecooker:cooking",
+  "ingredients": [
+    { "tag": "lifecooker:meats", "count": 2 },
+    { "tag": "lifecooker:coconuts", "count": 1 }
+  ],
+  "result": { "id": "lifecooker:coconut_roast_meat", "count": 1 },
+  "tier": "refined",
+  "time": 28,
+  "category": "meal",
+  "traits": [
+    { "type": "lifecooker:speed", "value": 3, "duration": 120 },
+    { "type": "lifecooker:luck", "value": 2, "duration": 90 }
+  ]
+}
